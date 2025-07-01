@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5151d6fd614114869b0b76e9491cc83d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127543
+  packageName: iOS TTS (Native Speech Synthesizer)
+  packageVersion: 1.04
+  assetPath: Assets/Plugins/GoodEnough/iOS TTS Example/ExampleScene.unity
+  uploadId: 621189

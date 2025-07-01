@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "616362509882",
+    "firebase_url": "https://arlanguage-474a2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "arlanguage-474a2",
+    "storage_bucket": "arlanguage-474a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616362509882:ios:58c1a10930fdf297e45703",
+        "android_client_info": {
+          "package_name": "com.unity.miaosian.arapp"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6XhMloiEfCyWSk6bNO30Lh0yv7CTnREs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

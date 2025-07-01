@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8cf7757a291f49b79aa8e557da314041
+timeCreated: 1535275773
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127543
+  packageName: iOS TTS (Native Speech Synthesizer)
+  packageVersion: 1.04
+  assetPath: Assets/Plugins/GoodEnough/iOS TTS/Scripts/Core/SpeechBoundary.cs
+  uploadId: 621189

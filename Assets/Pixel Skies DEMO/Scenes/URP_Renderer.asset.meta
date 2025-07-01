@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 968c732a732a61c43b1c3c692b64af4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 291531
+  packageName: Colourful Wooden GUI
+  packageVersion: 1.0
+  assetPath: Assets/Pixel Skies DEMO/Scenes/URP_Renderer.asset
+  uploadId: 685351

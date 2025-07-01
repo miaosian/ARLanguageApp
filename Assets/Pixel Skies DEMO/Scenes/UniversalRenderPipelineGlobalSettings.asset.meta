@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10db0798ec7fc274a8a7e94f5dce51bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 291531
+  packageName: Colourful Wooden GUI
+  packageVersion: 1.0
+  assetPath: Assets/Pixel Skies DEMO/Scenes/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 685351

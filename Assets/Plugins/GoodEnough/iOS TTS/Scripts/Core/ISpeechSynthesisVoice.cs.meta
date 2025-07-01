@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6b0cf8a53bb043cba6f63a476d0aa5aa
+timeCreated: 1535277046
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127543
+  packageName: iOS TTS (Native Speech Synthesizer)
+  packageVersion: 1.04
+  assetPath: Assets/Plugins/GoodEnough/iOS TTS/Scripts/Core/ISpeechSynthesisVoice.cs
+  uploadId: 621189

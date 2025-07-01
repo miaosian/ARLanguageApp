@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fccfc62abf2eb0a4db614853430894fd
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127543
+  packageName: iOS TTS (Native Speech Synthesizer)
+  packageVersion: 1.04
+  assetPath: Assets/Plugins/GoodEnough/iOS TTS/readme.txt
+  uploadId: 621189
