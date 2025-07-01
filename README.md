@@ -30,9 +30,9 @@ File > Build Settings > iOS > Switch Platform
 
 Open Xcode
 
-Click “Build” in Unity 
+Click “Build” in Unity  -> and choose the folder name "AR" to build
 
-After Build success -> rightclick the Build Folder -> open the Terminal -> enter "pod install"
+After Build success -> rightclick the "AR" Folder -> open the Terminal -> enter "pod install"
 
 Opens Xcode project
 
